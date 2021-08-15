@@ -1,1 +1,1 @@
-# Not-Enough-Space
+Created as a personal project to practice Unity 3D. Player controls a rocket with A and D keys and launches it upward with the spacebar. They must avoid cavern walls and meteors as they manuever from the launching pad to the landing pad.
